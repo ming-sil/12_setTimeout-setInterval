@@ -14,10 +14,15 @@
 
 
     // setTimeout(() => {
-    //     document.write('2초 뒤에 한번만 실행함')
+    //     document.write('2초 뒤에 한번만 실행함');
     // }, 2000)
 
     // const handleTime = () => {document.write('2초 뒤에 한번만 실행함')}
-    // setTimeout(handleTime, 2000)
+    // setTimeout(handleTime, 2000);
+
+
+    // setInterval(() =>{
+    //     document.write('2초마다 계속 실행함');
+    // }, 2000);
 
 })();//end
